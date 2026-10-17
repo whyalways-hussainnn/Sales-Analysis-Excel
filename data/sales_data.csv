@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,region,sales_channel,product,category,quantity,unit_price,discount_rate,revenue,estimated_cost,profit
+ORD-00001,2025-01-05,CUST-0001,South,Online,Wireless Mouse,Accessories,2,25.00,0.00,50.00,24.00,26.00
+ORD-00002,2025-01-12,CUST-0002,North,Retail,Monitor 24-inch,Electronics,1,179.00,0.05,170.05,110.00,60.05
+ORD-00003,2025-02-03,CUST-0003,West,Partner,Desk Lamp,Office,3,39.00,0.00,117.00,54.00,63.00
+ORD-00004,2025-02-18,CUST-0004,East,Online,Ergonomic Chair,Furniture,1,249.00,0.10,224.10,145.00,79.10
+ORD-00005,2025-03-04,CUST-0005,South,Retail,USB-C Hub,Accessories,2,45.00,0.00,90.00,48.00,42.00
+ORD-00006,2025-03-22,CUST-0006,North,Online,Mechanical Keyboard,Accessories,1,79.00,0.05,75.05,42.00,33.05
+ORD-00007,2025-04-10,CUST-0007,West,Partner,Standing Desk,Furniture,1,399.00,0.15,339.15,220.00,119.15
+ORD-00008,2025-05-02,CUST-0008,East,Retail,Notebook Pack,Office,5,12.00,0.00,60.00,25.00,35.00
+ORD-00009,2025-06-15,CUST-0009,South,Online,Laptop Stand,Accessories,2,49.00,0.10,88.20,56.00,32.20
+ORD-00010,2025-07-07,CUST-0010,North,Partner,Webcam HD,Electronics,2,69.00,0.00,138.00,70.00,68.00
+ORD-00011,2025-08-19,CUST-0011,West,Online,Monitor 24-inch,Electronics,2,179.00,0.00,358.00,220.00,138.00
+ORD-00012,2025-09-09,CUST-0012,East,Retail,Desk Lamp,Office,1,39.00,0.05,37.05,18.00,19.05
+ORD-00013,2025-10-21,CUST-0013,South,Partner,Ergonomic Chair,Furniture,2,249.00,0.00,498.00,290.00,208.00
+ORD-00014,2025-11-11,CUST-0014,North,Online,Wireless Mouse,Accessories,3,25.00,0.00,75.00,36.00,39.00
+ORD-00015,2025-12-02,CUST-0015,West,Retail,Standing Desk,Furniture,1,399.00,0.05,379.05,220.00,159.05
